@@ -1,0 +1,22 @@
+body{
+	background-image: url('../assets/images/background2.jpg');
+	background-size: fit;
+	background-repeat: repeat;
+}
+
+/*#body{
+	background-color: rgba(0, 0, 0, 0.7);
+	z-index: 5;
+}*/
+
+#banner{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	min-height: 350px;
+}
+
+#banner-label{
+	text-shadow: 2px 3px 3px #000;
+}
